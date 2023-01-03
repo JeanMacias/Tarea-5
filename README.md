@@ -113,7 +113,7 @@ El voltaje inducido a través de una bobina de alambre es igual al número de vu
 
 # **RESOLUCIÓN DE EJERCICIOS**
 
-**CAPÍTULO 9**
+# **CAPÍTULO 9**
 
 **SECCIÓN 9-1: ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS**
 
