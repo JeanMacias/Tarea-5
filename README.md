@@ -43,3 +43,15 @@ Esta diferencia es el valor del determinante característico (30 en este caso). 
 ![image](https://user-images.githubusercontent.com/116774235/210302953-f36e2bc1-4ac4-4b5a-aece-467f4d51141a.png)
 
 ![1672709532607](https://user-images.githubusercontent.com/116774235/210302915-fe1d38e5-32b8-447a-988c-bf810f327f74.png)
+
+**9.3. MÉTODO DE LA CORRIENTE DE LAZO**
+
+![image](https://user-images.githubusercontent.com/116774235/210303047-160ddc41-5d40-4a07-b904-93734aed127c.png)
+
+![1672711846644](https://user-images.githubusercontent.com/116774235/210303022-bb6cae99-0b6d-4500-8350-a49646c82ee5.png)
+
+**9.4. MÉTODO DE VOLTAJE EN NODOS**
+
+![image](https://user-images.githubusercontent.com/116774235/210303205-cb6b820e-d3c8-4e78-b957-0be4669ff6f2.png)
+
+![1672714057625](https://user-images.githubusercontent.com/116774235/210303213-63b45562-1ad3-49a7-9198-9967ea011cb5.png)
